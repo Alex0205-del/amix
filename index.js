@@ -1,13 +1,19 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('ME REGUSTAS\n COMO NO TE LO IMAGINAS')
-    alert("NECESITABA CONFESARTELO")
-    alert("PERO NO PASA NADA SI NO ES MUTUO")
-    alert("PODEMOS SEGUIR SIENDO AMIGOS")
-    alert("SOLO QUERIA QUE LO SUPIERAS")
-    alert("NO PODIA ESTAR EL RESTO DE MI VIDA SIN CONFESARTELO")
-    alert("ESPERO TU RESPUESTA ")
+    alert('sabia que dirias que si')
+    alert("solo pasaba para recordarte\nque eres espectacular")
+    alert("que sin ti muchas cosas de mi vida dejarian de tener sentido")
+    alert("cada ves que te sientas angustiada y frustrada de la vida\naqui hay alguien que siempre te apoyará")
+    alert("cada ves que sientas que no puedes mas\n entra a este link")
+    alert("para q recuerdes lo valiosa que eres")
+    alert("no como un diamante\nhay planetas enteros hechos de diamante")
+    alert("sino como la madera\núnica en el universo")
+    alert("eres fuerte\nmucho más de lo que tu crees")
+    alert("no tienes idea de lo afortunado que me siento\npor tenerte en mi vida")
+    alert("no puedo ofrecerte mucho\n y se que no soy la mejor persona\npero soy el que sin duda alguna\ncorreria encontra de todo\npara ir a verte triunfar")
+    alert("aqui andamos")
+    alert("joder\nmucho texto")
 });
 
 const noBtn = document.querySelector('#noBtn');
