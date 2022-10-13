@@ -1,7 +1,16 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
+    
     alert('sabia que dirias que si')
+    alert("eres una pinche chingona\nno lo olvides")
+    alert("eres ese algo imposible de olvidar\nque siempre esta rodeando tu mente")
+    alert("eres la mera vrga\nnunca pero nunca digas que no eres importante")
+    alert("y cada ves que sientas que no puedes mas\ncon esta vida de mrda")
+    alert("entra a este link\n para que recuerdes que aqui hay alguien\nque quiere estar ahi \n en tus dias oscuros y tristes")
+    alert("tkm wey")
+    
+    /*alert('sabia que dirias que si')
     alert("solo pasaba para recordarte\nque eres espectacular")
     alert("que sin ti muchas cosas de mi vida dejarian de tener sentido")
     alert("cada ves que te sientas angustiada y frustrada de la vida\naqui hay alguien que siempre te apoyará")
@@ -13,7 +22,7 @@ yesBtn.addEventListener('click',function () {
     alert("no tienes idea de lo afortunado que me siento\npor tenerte en mi vida")
     alert("no puedo ofrecerte mucho\n y se que no soy la mejor persona\npero soy el que sin duda alguna\ncorreria encontra de todo\npara ir a verte triunfar")
     alert("aqui andamos")
-    alert("joder\nmucho texto")
+    alert("joder\nmucho texto")*/
 });
 
 const noBtn = document.querySelector('#noBtn');
